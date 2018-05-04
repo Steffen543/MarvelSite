@@ -1,0 +1,31 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url("../img/bg.jpg");
+      /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.background {
+    background-color: transparent;
+}
+
+.content {
+    background-color:green;
+}
+
+.heroe-tile {
+    background: orange;
+    height: 200px;
+}
+
+.footer {
+    background-color: black;
+}
